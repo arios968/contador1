@@ -1,0 +1,19 @@
+{
+  "name": "sprint-contador",
+  "version": "1.0.0",
+  "description": "este es el sprint de Alejandro Rios",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arios968/contador1.git"
+  },
+  "author": "Alejandro Rios (arios968)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arios968/contador1/issues"
+  },
+  "homepage": "https://github.com/arios968/contador1#readme"
+}
